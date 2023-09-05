@@ -13,7 +13,7 @@ Aktuell bin ich dabei, meine Fähigkeiten in der Webentwicklung zu erweitern. Ic
 
 Mein langfristiges Ziel ist es, ein Full-Stack-Webentwickler zu werden, um meine eigenen Programme, Spiele und ähnliche digitale Projekte zu entwerfen und zu entwickeln. Ich bin leidenschaftlich daran interessiert, zukünftig, innovative Lösungen zu gestalten, sei es in Form von webbasierten Anwendungen, interaktiven Spielen oder anderen kreativen digitalen Projekten. Als Full-Stack-Entwickler möchte ich die volle Bandbreite meiner Fähigkeiten nutzen, um digitale Erfahrungen zu schaffen, die Menschen begeistern und ihnen nützen. :key:
 
-Dieses GitHub-Repository ist ein wichtiger Schritt auf meiner Reise, auf dem ich meine Fortschritte dokumentieren und meine Projekte mit der Welt teilen werde. Ich freue mich darauf, meine kreativen Ideen in die Tat umzusetzen und an aufregenden Technologieprojekten zu arbeiten. :warning:
+Dieses GitHub-Repository ist ein wichtiger Schritt auf meiner Reise, auf dem ich meine Fortschritte dokumentieren und meine Projekte mit der Welt teilen werde. Ich freue mich darauf, meine kreativen Ideen in die Tat umzusetzen und an aufregenden Projekten zu arbeiten. :warning:
 
 ## Kontakt :pencil2:
 
