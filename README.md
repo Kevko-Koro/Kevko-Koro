@@ -23,6 +23,17 @@ Dieses GitHub-Repository ist ein wichtiger Schritt auf meiner Reise, auf dem ich
 
 Ich freue mich darauf, mit anderen Entwicklern und Enthusiasten in Kontakt zu treten und gemeinsam an spannenden Projekten zu arbeiten.
 
+- 👨‍💻 Web Developer in Ausbildung 🌐
+- 🎬 Leidenschaftlicher Animes, Film & Serienliebhaber 🍿
+- 🧗‍♂️ Kletter- und Boulderenthusiast in meiner Freizeit 🧗‍♀️
+- 🌙 Nachtaktiv, denn die besten Ideen kommen nachts 🌃
+- 🎨 Neben der Web Developer Ausbildung: Auf dem Weg, Grafikdesign-Grundlagen in Photoshop und Co zu meistern 🎨
+
+Bereit, meine Leidenschaften in die digitale Welt zu integrieren und kreativen Wandel zu schaffen! 💡 
+
+---
+
+#WebDevelopment #AnimeFan #Kletterliebe #GraphicDesignInProgress
       _   _   _   _ 
      / \ / \ / \ / \ 
     ( K | o | r | o )
