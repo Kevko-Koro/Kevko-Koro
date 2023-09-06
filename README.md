@@ -30,10 +30,8 @@ Ich freue mich darauf, mit anderen Entwicklern und Enthusiasten in Kontakt zu tr
 - 🎨 Neben der Web Developer Ausbildung: Auf dem Weg, Grafikdesign-Grundlagen in Photoshop und Co zu meistern 🎨
 
 Bereit, meine Leidenschaften in die digitale Welt zu integrieren und kreativen Wandel zu schaffen! 💡 
+- #WebDevelopment #AnimeFan #Kletterliebe #GraphicDesignInProgress
 
----
-
-#WebDevelopment #AnimeFan #Kletterliebe #GraphicDesignInProgress
 
       _   _   _   _ 
      / \ / \ / \ / \ 
