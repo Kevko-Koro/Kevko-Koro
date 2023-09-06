@@ -32,6 +32,8 @@ Ich freue mich darauf, mit anderen Entwicklern und Enthusiasten in Kontakt zu tr
 Bereit, meine Leidenschaften in die digitale Welt zu integrieren und kreativen Wandel zu schaffen! 💡 
 - #WebDevelopment #AnimeFan #Kletterliebe #GraphicDesignInProgress
 
+---
+
       _   _   _   _ 
      / \ / \ / \ / \ 
     ( K | o | r | o )
