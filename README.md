@@ -34,6 +34,7 @@ Bereit, meine Leidenschaften in die digitale Welt zu integrieren und kreativen W
 ---
 
 #WebDevelopment #AnimeFan #Kletterliebe #GraphicDesignInProgress
+
       _   _   _   _ 
      / \ / \ / \ / \ 
     ( K | o | r | o )
